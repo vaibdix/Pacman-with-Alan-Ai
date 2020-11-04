@@ -1,13 +1,13 @@
-# Pacman-with-Alan-Ai
-    just a pacman game wih voice functions using Alan AI.
+# Pacman-with-Alan-AI
+   just a pacman game wih voice functions using Alan AI.
 
 ### Implementation of Alan AI
  
-    - Go to https://studio.alan.app/
-    - Signup 
-    - Click Create Voice Assistant
-    - add the following in editior
-        ## 
+   - Go to https://studio.alan.app/
+   - Signup 
+   - Click Create Voice Assistant
+   - add the following in editior
+        
         ```
         intent('Hello world', p => {
             p.play('Hi there');
@@ -33,7 +33,7 @@
             p.play({command: 'start-game'})
         });        
         ```
-    - copy Alan SDK Key and replace it in code and it done.
+   - copy Alan SDK Key and replace it in code and it done.
 
 ### MIT Licence
 
