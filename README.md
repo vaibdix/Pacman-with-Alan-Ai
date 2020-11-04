@@ -33,7 +33,7 @@
             p.play({command: 'start-game'})
         });        
         ```
-   - copy Alan SDK Key and replace it in code and it done.
+   - copy Alan SDK Key and replace it in code and it's done.
 
 ### MIT Licence
 
